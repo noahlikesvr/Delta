@@ -1,3 +1,4 @@
-# DELTA v1.3
+# DELTA
 File created by Noah Harper.<br>
 **Do not claim any files as your own.**
+### In version 1.3
